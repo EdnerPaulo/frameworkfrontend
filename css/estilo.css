@@ -1,0 +1,6 @@
+body{
+ background-image: url('../img/var.jpg');
+ background-attachment: fixed;
+ background-size: 110%;
+ background-repeat: no-repeat;
+}
